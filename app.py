@@ -137,7 +137,7 @@ def recommend_crop(predicted_class_name, rf_model, feature_scaler, crop_le, soil
         st.info(f"'{predicted_class_name}' is not agricultural land.")
 
 # --- STREAMLIT UI ---
-st.title("🛰️ Land Cover Classification & Crop Recommendation")
+st.title("🚀 Land Cover Classification & Crop Recommendation")
 st.markdown("Upload a satellite image and input soil data to get crop recommendations.")
 
 # --- IMAGE UPLOAD ---
@@ -166,7 +166,7 @@ soil_input = {
 # --- PREDICTION BUTTON ---
 if uploaded_file:
     st.image(uploaded_file, caption="Uploaded Image", use_column_width=True)
-    if st.button("🧠 Predict & Recommend"):
+    if st.button("🧐 Predict & Recommend"):
         st.subheader("📌 Land Cover Classification")
         with st.spinner("Classifying land and recommending crop..."):
             pred16, conf16 = predict_land_cover(uploaded_file, trained_vgg16, vgg16_preprocess_input, EURO_SAT_CLASS_NAMES, IMG_HEIGHT, IMG_WIDTH)
