@@ -3,6 +3,6 @@ pandas==2.2.2
 numpy==1.26.4
 joblib
 pillow
-scikit-learn # For your .joblib models/scalers/encoders
+scikit-learn
 tensorflow
 
