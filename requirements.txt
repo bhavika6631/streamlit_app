@@ -1,8 +1,7 @@
-streamlit==1.45.1
-pandas==2.2.2
-numpy==1.26.4
-joblib
-pillow
-scikit-learn
+streamlit
 tensorflow
-
+scikit-learn
+joblib
+numpy
+pandas
+Pillow
