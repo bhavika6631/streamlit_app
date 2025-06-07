@@ -1,8 +1,10 @@
-streamlit
-tensorflow==2.13.0
-numpy
-pandas
 scikit-learn
 joblib
-Pillow
 gdown
+streamlit
+tensorflow==2.12.0
+keras==2.12.0
+joblib
+numpy
+pandas
+pillow
