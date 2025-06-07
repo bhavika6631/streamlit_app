@@ -20,18 +20,18 @@ EURO_SAT_CLASS_NAMES = [
 
 # --- GOOGLE DRIVE FILE IDS ---
 GDRIVE_FILES = {
-    "vgg16":  "16VAVYkgUv8_tAs-j049ZZszJ48OMPuSA",
-    "vgg19":  "1I8dq71pnd-ynID2yJ0t8rxD_bCPba365",
-    "resnet50": "1RZh4zScXsMRoYtGYIbyKPO6O_3nI6Tfr",
+    "vgg16":  "1bEwj04IuE6uBKmrdRtUF5ACwhaZCrKbW",
+    "vgg19":  "1buS8c--tK30KnK5YFxO6CsW9G2Iqu9Fc",
+    "resnet50": "1rIEZc4hJLV4wSBnl6pvV65Z5kFtSXIOW",
     "rf_model": "18Lyt4gJDpJhdDN0dsJ6s91F0Ef0suvKt",
     "scaler":   "1KrhJWkDhDldkn4PB1FIJcmJiLk5cGV2d",
     "label_encoder": "1ZcEnuPn4gWMvWbWoAHuINVxkwuwM4QWI"
 }
 
 GDRIVE_NAMES = {
-    "vgg16": "VGG16_best_model.h5",
-    "vgg19": "VGG19_best_model.h5",
-    "resnet50": "ResNet50_best_model.h5",
+    "vgg16": "VGG16_fixed_model.h5",
+    "vgg19": "VGG19_fixed_model.h5",
+    "resnet50": "ResNet50_fixed_model.h5",
     "rf_model": "best_rf_model.joblib",
     "scaler": "crop_scaler.joblib",
     "label_encoder": "crop_label_encoder.joblib"
