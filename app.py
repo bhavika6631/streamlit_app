@@ -177,7 +177,7 @@ if uploaded_file:
             st.write(f"**ResNet50:** {pred50} ({conf50:.2f}%)")
 
             st.markdown("---")
-            recommend_crop(pred50, best_rf_model, scaler, crop_label_encoder, soil_input)
+            recommend_crop(pred19, best_rf_model, scaler, crop_label_encoder, soil_input)
 else:
     st.info("Please upload an image to get started.")
 
