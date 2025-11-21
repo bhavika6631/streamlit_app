@@ -153,9 +153,9 @@ pip install -r requirements.txt
 # Run Streamlit App
 streamlit run app.py
 
-📸 Demo (Screenshots)
+# 📸 Demo (Screenshots)
 
-# Upload your images inside a folder named images/ and reference them like:
+ Upload your images inside a folder named images/ and reference them like:
 
 ![Land Classification Output](images/land_output.png)
 ![Crop Recommendation Output](images/crop_output.png)
@@ -204,3 +204,4 @@ C.Sneha
 AI & ML Enginner
 Bojja Lavanya
 Ai & Ml Enginner
+
