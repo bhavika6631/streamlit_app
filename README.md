@@ -142,7 +142,7 @@ Seaborn
 
 # 📦 Installation & Running the Project
 # Clone the repository
-git clone https://github.com/your-username/land-classification-crop-recommendation.git
+git clone https:https://github.com/bhavika6631/streamlit_app/tree/main
 
 # Navigate to project folder
 cd land-classification-crop-recommendation
@@ -192,16 +192,21 @@ CNN model comparison
 ML model performance
 
 Integrated decision pipeline
+ # Streamlit app link :
+ https://appapp-fje9owrhmhtu3q7qw7k6j2.streamlit.app/
 
 
 
-👩‍💻 Author
+# 👩‍💻 Author
 
 Bhavika Reddy Alsani(Team lead)
 AI & ML Engineer
-GitHub: your account link
+GitHub:(https://github.com/bhavikaalsani)
+
 C.Sneha
 AI & ML Enginner
+
 Bojja Lavanya
 Ai & Ml Enginner
+
 
