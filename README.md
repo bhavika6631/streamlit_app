@@ -157,8 +157,8 @@ streamlit run app.py
 
  Upload your images inside a folder named images/ and reference them like:
 
-![Land Classification Output](output/Screenshot 2025-11-21 115039.png)
-![Crop Recommendation Output](images/crop_output.png)
+
+![Crop Recommendation Output](./output/Screenshot 2025-11-21 115039.png)
 
 # 📊 Results
 Land Classification
@@ -208,6 +208,7 @@ AI & ML Enginner
 
 Bojja Lavanya
 Ai & Ml Enginner
+
 
 
 
