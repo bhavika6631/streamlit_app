@@ -165,7 +165,7 @@ soil_input = {
 
 # --- PREDICTION BUTTON ---
 if uploaded_file:
-    st.image(uploaded_file, caption="Uploaded Image", use_column_width=True)
+    st.image(uploaded_file, caption="Uploaded Image", width="stretch")
     if st.button("🧐 Predict & Recommend"):
         st.subheader("📌 Land Cover Classification")
         with st.spinner("Classifying land and recommending crop..."):
